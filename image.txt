@@ -1,0 +1,1 @@
+this is a normal txt file for extracting the metadata of a txt file.
